@@ -4,7 +4,7 @@ from ipywidgets import HBox, VBox
 from IPython.display import display
 
 
-#################### UI##################################
+#################### UI###########################
 
 Operator = widgets.Text(
 placeholder='Name',
