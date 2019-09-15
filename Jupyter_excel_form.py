@@ -1,9 +1,7 @@
 import pandas as pd
-# from ipywidgets import interact, interactive, fixed, interact_manual
 import ipywidgets as widgets
 from ipywidgets import HBox, VBox
 from IPython.display import display
-
 
 
 #################### UI##################################
